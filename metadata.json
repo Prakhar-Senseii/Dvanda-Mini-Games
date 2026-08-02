@@ -1,0 +1,6 @@
+{
+  "name": "Dvandva: Mini Games",
+  "description": "Commercial-quality 2-Player local multiplayer game suite with Master GDD, Unity C# Architecture, 30 Mini-Game Specs, Roadmap, and Playable Arcade Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
